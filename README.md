@@ -1,12 +1,17 @@
 # ComPWA demo for PyHEP 2022
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ComPWA/PyHEP2022/0.1?urlpath=%2Fnotebooks%2Ftalk.ipynb)
+[![Slides](https://img.shields.io/badge/view-slides-9cf?style=flat&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRF-EG2B6u8a6Wb3--TY37bBEgM0bIxgNkCesokrTEwdQZbMwONMXOKqn5GZSirAIH9NXVv6v0ym_es/pub)
 [![10.5281/zenodo.7078981](https://zenodo.org/badge/536550527.svg)](https://doi.org/10.5281/zenodo.7078981)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
+This repository was prepared for [this notebook talk](https://indico.cern.ch/event/1150631/contributions/5002013) at the [PyHEP 2022 Workshop](https://indico.cern.ch/event/1150631). The accompanying slides can be viewed [here](https://docs.google.com/presentation/d/e/2PACX-1vRF-EG2B6u8a6Wb3--TY37bBEgM0bIxgNkCesokrTEwdQZbMwONMXOKqn5GZSirAIH9NXVv6v0ym_es/pub).
+
 ## Local installation
 
-A few additional dependencies are required to develop the notebook for this talk. They are defined through [`environment.yml`](./environment.yml).
+To view and run this notebook, install the PyPI packages listed under [`binder/requirements.in`](./binder/requirements.in) (the dependencies have been [pinned](https://compwa-org.readthedocs.io/develop.html#pinning-dependency-versions) for Python 3.8 in [`binder/requirements.txt`](./binder/requirements.txt)).
+
+To develop the notebook for this talk, you require a few additional dependencies. They are defined through [`requirements.in`](./requirements.in).
 
 It's easiest to work with [Conda](https://docs.conda.io/en/latest/index.html) ([Miniconda](https://docs.conda.io/en/latest/miniconda.html)). The installation procedure then simply becomes:
 
