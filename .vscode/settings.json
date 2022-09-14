@@ -1,0 +1,29 @@
+{
+  "[bibtex]": {
+    "editor.formatOnSave": false
+  },
+  "[ipynb]": {
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.enabled": true,
+  "editor.formatOnSave": true,
+  "git.rebaseWhenSync": true,
+  "python.formatting.provider": "black"
+}

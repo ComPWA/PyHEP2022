@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker",
+    "travisillig.vscode-json-stable-stringify",
+    "tyriar.sort-lines",
+    "yzhang.markdown-all-in-one"
+  ]
+}

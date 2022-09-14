@@ -1,0 +1,4 @@
+# These are the minimal requirements for running this repo on https://mybinder.org
+ampform~=0.14
+qrules~=0.9.0
+tensorwaves[jax,pwa]~=0.4.8

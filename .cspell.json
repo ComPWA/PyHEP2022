@@ -1,0 +1,30 @@
+{
+  "flagWords": [
+    "analyse",
+    "colour",
+    "comparision",
+    "favour",
+    "flavour",
+    "hte",
+    "optimise",
+    "paramater",
+    "parmater",
+    "transision",
+    "transisions"
+  ],
+  "ignorePaths": [
+    ".cspell.json",
+    ".gitignore",
+    ".pre-commit-config.yaml",
+    ".vscode/*",
+    "apt.txt",
+    "environment.yml",
+    "requirements*.in",
+    "requirements*.txt",
+    "tox.ini"
+  ],
+  "ignoreWords": ["Miniconda"],
+  "language": "en-US",
+  "version": "0.2",
+  "words": ["ComPWA", "Conda", "MAINT", "PyHEP"]
+}
