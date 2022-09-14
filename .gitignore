@@ -1,3 +1,5 @@
+*.csv
+*.gif
 .ipynb_checkpoints/
 .tox/
 condaenv.*.requirements.txt

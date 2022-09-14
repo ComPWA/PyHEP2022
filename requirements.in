@@ -1,6 +1,5 @@
 # These requirements are for developing this repository locally
 -r binder/requirements.in
-black
 isort
 jupyterlab >=3
 jupyterlab-code-formatter
