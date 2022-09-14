@@ -1,6 +1,7 @@
 # ComPWA demo for PyHEP 2022
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ComPWA/PyHEP2022/0.1?urlpath=%2Fnotebooks%2Ftalk.ipynb)
+[![10.5281/zenodo.7078981](https://zenodo.org/badge/536550527.svg)](https://doi.org/10.5281/zenodo.7078981)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Local installation
