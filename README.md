@@ -1,6 +1,6 @@
 # ComPWA demo for PyHEP 2022
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ComPWA/PyHEP2022/0.1?urlpath=%2Fnotebooks%2Ftalk.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ComPWA/PyHEP2022/0.2?urlpath=%2Fnotebooks%2Ftalk.ipynb)
 [![Slides](https://img.shields.io/badge/view-slides-9cf?style=flat&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRF-EG2B6u8a6Wb3--TY37bBEgM0bIxgNkCesokrTEwdQZbMwONMXOKqn5GZSirAIH9NXVv6v0ym_es/pub)
 [![10.5281/zenodo.7078981](https://zenodo.org/badge/536550527.svg)](https://doi.org/10.5281/zenodo.7078981)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
