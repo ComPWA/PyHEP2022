@@ -4,6 +4,8 @@
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
     "ms-python.python",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
     "redhat.vscode-yaml",
     "streetsidesoftware.code-spell-checker",
     "travisillig.vscode-json-stable-stringify",
