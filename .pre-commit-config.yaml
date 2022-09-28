@@ -21,7 +21,7 @@ repos:
       - id: trailing-whitespace
 
   - repo: https://github.com/streetsidesoftware/cspell-cli
-    rev: v6.8.1
+    rev: v6.10.0
     hooks:
       - id: cspell
 
@@ -31,7 +31,7 @@ repos:
       - id: editorconfig-checker
 
   - repo: https://github.com/nbQA-dev/nbQA
-    rev: 1.4.0
+    rev: 1.5.2
     hooks:
       - id: nbqa-black
       - id: nbqa-isort
@@ -40,7 +40,7 @@ repos:
           - --py37-plus
 
   - repo: https://github.com/kynan/nbstripout
-    rev: 0.6.0
+    rev: 0.6.1
     hooks:
       - id: nbstripout
         args:
