@@ -1,4 +1,5 @@
 # These are the minimal requirements for running this repo on https://mybinder.org
+-c ../requirements.txt
 ampform~=0.14
 black
 ipympl
